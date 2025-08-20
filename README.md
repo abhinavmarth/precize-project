@@ -83,12 +83,4 @@ This is a learning-oriented project to showcase Java event-driven design.
 
 Demonstrates Observer Pattern and structured logging.
 
-Comment in code contains the word hatchling as required for assignment instructions.
-
-yaml
-Copy
-Edit
-
 ---
-
-👉 Do you want me to also make this README **look more professional with badges (build, Java version, license, 
